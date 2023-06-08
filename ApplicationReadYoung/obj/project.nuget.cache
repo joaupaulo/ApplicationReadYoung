@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5BQfIAUld3ZMDY8z+WzaSE2qLUyGA74JlGxBmY91gW13w2TKLCdH/1Vfpil90dvArfw1/dlKw34sx2OVBUbtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoãoPaulodosSantosSa\\Desktop\\ApplicationReadYoung\\ApplicationReadYoung\\ApplicationReadYoung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
