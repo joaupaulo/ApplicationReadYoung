@@ -1,0 +1,15 @@
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\bin\Debug\net7.0\ApplicationReadYoung.Domain.exe
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\bin\Debug\net7.0\ApplicationReadYoung.Domain.deps.json
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\bin\Debug\net7.0\ApplicationReadYoung.Domain.runtimeconfig.json
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\bin\Debug\net7.0\ApplicationReadYoung.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\bin\Debug\net7.0\ApplicationReadYoung.Domain.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.AssemblyInfo.cs
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\refint\ApplicationReadYoung.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ApplicationReadYoung.Domain.genruntimeconfig.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\ApplicationReadYoung\ApplicationReadYoung.Domain\obj\Debug\net7.0\ref\ApplicationReadYoung.Domain.dll

@@ -8,13 +8,27 @@
     ".NETCoreApp,Version=v7.0": {
       "ApplicationReadYoung/1.0.0": {
         "dependencies": {
+          "ApplicationReadYoung.Core": "1.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.0"
         },
         "runtime": {
           "ApplicationReadYoung.dll": {}
         }
       },
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.0": {}
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.0": {},
+      "ApplicationReadYoung.Core/1.0.0": {
+        "dependencies": {
+          "ApplicationReadYoung.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ApplicationReadYoung.Core.dll": {}
+        }
+      },
+      "ApplicationReadYoung.Domain/1.0.0": {
+        "runtime": {
+          "ApplicationReadYoung.Domain.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -29,6 +43,16 @@
       "sha512": "sha512-gfDtAL1WhkjbRdbZlt/ZeQYCbgRpNCZCGj+yeqHObsNFRDHjq8qZJOX9AyTxJpSRYMi9SJk7JDyAbbVYRgEhAA==",
       "path": "microsoft.visualstudio.azure.containers.tools.targets/1.17.0",
       "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    },
+    "ApplicationReadYoung.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationReadYoung.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

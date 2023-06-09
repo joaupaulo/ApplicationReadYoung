@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bBxb9Gjk028qHLfoaWWh5YvXH+z0hdZvAIlcOpcbq8e9yeAy1ea6zmWON6uYMTP4AgjZYNgTJMLJbsK9tdxhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoãoPaulodosSantosSa\\Desktop\\ApplicationReadYoung\\ApplicationReadYoung.Core\\ApplicationReadYoung.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\mongodb.bson\\2.19.2\\mongodb.bson.2.19.2.nupkg.sha512",
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

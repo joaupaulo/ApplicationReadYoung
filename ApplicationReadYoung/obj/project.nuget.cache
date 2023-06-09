@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L5BQfIAUld3ZMDY8z+WzaSE2qLUyGA74JlGxBmY91gW13w2TKLCdH/1Vfpil90dvArfw1/dlKw34sx2OVBUbtQ==",
+  "dgSpecHash": "o6TLkW0DInrtH4u4582DgN90YY2Nk6a7r5P5PBvZkqL50rrXCDO6/40abaNb5rR3HhnZliD/lAjMPrlzL1wYFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\JoãoPaulodosSantosSa\\Desktop\\ApplicationReadYoung\\ApplicationReadYoung\\ApplicationReadYoung.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\mongodb.bson\\2.19.2\\mongodb.bson.2.19.2.nupkg.sha512",
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
